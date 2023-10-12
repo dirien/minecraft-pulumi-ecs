@@ -2,5 +2,5 @@ name: minecraft-pulumi-ecs
 runtime: go
 description: A minimal Azure Native Go Pulumi program
 
-import:
+environment:
 - dev
